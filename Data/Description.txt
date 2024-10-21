@@ -1,1 +1,3 @@
-Data for train and test set. Survival data for the internal cohort.
+Data for train ("train_dataset") and test set ("test_dataset). 
+
+Survival data for the internal cohort ("surviva_data". The order of rows matches datasets ordering.
