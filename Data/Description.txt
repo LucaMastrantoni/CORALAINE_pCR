@@ -1,1 +1,1 @@
-Data for train and test set
+Data for train and test set. Survival data for the internal cohort.
