@@ -1,4 +1,4 @@
-# CORALAINE_pCR
+# CORALAINE - pCR Prediction
 "Accessible Model Predicts Response in Hormone Receptor Positive HER2 Negative Breast Cancer Receiving Neoadjuvant Chemotherapy"
 
 Repository for CORALAINE study
